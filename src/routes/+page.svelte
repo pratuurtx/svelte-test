@@ -19,6 +19,7 @@
 		</span>
 	</h1>
 	<p>test krub edit</p>
+	<p>eiei</p>
 	<Counter />
 </section>
 
