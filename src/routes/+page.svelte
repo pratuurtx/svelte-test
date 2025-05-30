@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcomeFallback from '$lib/images/svelte-welcome.png';
+	import Counter from "./Counter.svelte";
+	import welcome from "$lib/images/svelte-welcome.webp";
+	import welcomeFallback from "$lib/images/svelte-welcome.png";
 </script>
 
 <svelte:head>
@@ -18,6 +18,7 @@
 			</picture>
 		</span>
 	</h1>
+	<p>test krub edit</p>
 	<Counter />
 </section>
 
